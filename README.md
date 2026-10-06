@@ -12,11 +12,12 @@ analyze it and present insights.
 - Dashboards
 
 ## Projects
-1. Excel Sales Dashboard
-2. SQL Business Analysis
-3. Python Data Analysis (Pandas)
-(more coming soon)
 
+| # | Project | Tools | Status |
+|---|---------|-------|--------|
+| 1 | [Q1 Sales Performance Report](01-excel-sales-report) | Excel | Done |
+| 2 | SQL Business Analysis | SQL | In progress |
+| 3 | Python Data Analysis (Pandas) | Python | Coming soon |
 ## Contact
 LinkedIn:https://www.linkedin.com/in/devanshi-tomar-34abb93a3?utm_source=share_via&utm_content=profile&utm_medium=member_android
 Email: devanshi9568tomar@gmail.com
