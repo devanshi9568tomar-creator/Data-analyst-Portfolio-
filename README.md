@@ -18,6 +18,14 @@ analyze it and present insights.
 | 1 | [Q1 Sales Performance Report](01-excel-sales-report) | Excel | Done |
 | 2 | SQL Business Analysis | SQL | In progress |
 | 3 | Python Data Analysis (Pandas) | Python | Coming soon |
+## Projects
+
+### SQL Sales Analysis
+Analysed a 100-row sales dataset in PostgreSQL to answer 18 business questions using filtering, aggregation and GROUP BY.
+
+- **Tools:** PostgreSQL, pgAdmin
+- **Key finding:** Furniture drives about 52% of total sales
+- **Repo:** [Sql-sales-analysis](https://github.com/devanshi9568tomar-creator/Sql-sales-analysis)
 ## Contact
 LinkedIn:https://www.linkedin.com/in/devanshi-tomar-34abb93a3?utm_source=share_via&utm_content=profile&utm_medium=member_android
 Email: devanshi9568tomar@gmail.com
